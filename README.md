@@ -224,9 +224,7 @@ Built with ❤️ for Mumbai Hacks 2025
 ## 📞 Contact
 
 For questions or feedback:
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: ojassachinneve@gmail.com
 
 ---
 
