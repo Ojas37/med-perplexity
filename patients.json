@@ -1,0 +1,70 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Amit Sharma",
+    "age": 58,
+    "gender": "Male",
+    "abha_id": "91-2233-4455-66",
+    "conditions": [
+      "Chronic Kidney Disease (Stage 3)",
+      "Hypertension"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Amlodipine"
+    ],
+    "allergies": [
+      "Sulfa Drugs"
+    ],
+    "vitals": {
+      "creatinine": 2.1,
+      "eGFR": 45,
+      "blood_pressure": "140/90"
+    },
+    "recent_labs": "High Serum Creatinine detected on 20-Oct-2024."
+  },
+  "P002": {
+    "id": "P002",
+    "name": "Priya Verma",
+    "age": 28,
+    "gender": "Female",
+    "abha_id": "91-9988-7766-55",
+    "conditions": [
+      "Migraine"
+    ],
+    "medications": [
+      "Naproxen"
+    ],
+    "allergies": [],
+    "vitals": {
+      "creatinine": 0.8,
+      "eGFR": 110,
+      "blood_pressure": "120/80"
+    },
+    "recent_labs": "All parameters normal."
+  },
+  "P003": {
+    "id": "P003",
+    "name": "Rahul Singh",
+    "age": 42,
+    "gender": "Male",
+    "abha_id": "91-1122-3344-55",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Metformin"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vitals": {
+      "hba1c": 7.2,
+      "blood_sugar_fasting": 140,
+      "creatinine": 0.9,
+      "eGFR": 95,
+      "blood_pressure": "130/85"
+    },
+    "recent_labs": "HbA1c slightly elevated at 7.2. Renal function normal (eGFR 95). No proteinuria detected."
+  }
+}
